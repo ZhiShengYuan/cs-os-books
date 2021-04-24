@@ -4,5 +4,3 @@ source: https://github.com/duanluan/ultimate-resources-zh-hans
  source : https://github.com/niudai/How-to-be-a-good-programmer
 # 下载
 请前往本项目releases页面下载
-4th为现代操作系统
-9th为操作系统概念
