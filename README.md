@@ -1,6 +1,7 @@
-# ож╢З╡ывВо╣мЁ ╣зкд╟Ф PDF жпнд
+# Г▌╟Д╩ёФ⌠█Д╫°ГЁ╩Г╩÷ Г╛╛Е⌡⌡Г┴┬ PDF Д╦╜Ф√┤
 source: https://github.com/duanluan/ultimate-resources-zh-hans
-# ╡ывВо╣мЁ╦едН ╣з╬е╟Ф PDF жпнд
+# Ф⌠█Д╫°ГЁ╩Г╩÷Ф╕┌Е©╣ Г╛╛Д╧²Г┴┬ PDF Д╦╜Ф√┤
 source : https://github.com/niudai/How-to-be-a-good-programmer
-# обть
-гКг╟мЫ╠╬оНд©releasesрЁцФобть
+# Г╝≈ФЁ∙Е╞╪Х╝╨ Г╛╛Д╦┴Г┴┬ PDF Д╦╜Ф√┤
+# Д╦▀Х╫╫
+Х╞╥Е┴█Е╬─Ф°╛И║╧Г⌡╝releasesИ║╣И²╒Д╦▀Х╫╫
